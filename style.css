@@ -1,0 +1,114 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+
+h2 {
+    font-size: 50px;
+
+}
+
+.border {
+    border-left: 5px solid;
+}
+
+h1 {
+    text-align: center;
+    font-weight: 700;
+    font-size: 50px;
+}
+
+.half-width {
+    padding-left: 30px;
+    width: 40%;
+    padding-left: 10%;
+    padding-right: 10%;
+
+}
+
+
+.half-width img {
+    width: 80%;
+
+}
+
+.top-banner-added {
+    display: flex;
+    padding-top: 150px;
+}
+
+.orange-color {
+    color: orange;
+}
+
+.anchor-tag {
+    text-decoration: none;
+    text-decoration-color: white;
+    background-color: orange;
+    padding: 10px 20px;
+
+}
+
+.space {
+    padding-top: 40px;
+}
+
+.illustrator-1 {
+    box-shadow: 5px 3px aquamarine;
+    background-color: aquamarine;
+    border-radius: 10px;
+    margin-right: 20px;
+
+}
+
+.illustrator-2 {
+    box-shadow: 5px 3px rgb(186, 170, 178);
+    background-color: rgb(171, 169, 170);
+    margin-right: 20px;
+    border-radius: 10px;
+}
+
+.illustrator-3 {
+    box-shadow: 5px 3px purple;
+    background-color: purple;
+    margin-right: 20px;
+    border-radius: 10px;
+}
+
+.illustrations {
+
+    border-radius: 3px;
+    padding: 20px 20px 20px 20px;
+    border-collapse: separate;
+
+    padding-bottom: 150px;
+
+}
+
+.flex {
+    display: flex;
+    padding-right: 10px;
+
+}
+
+
+.illustrations img {
+    width: 40%;
+
+}
+
+.coding {
+
+    display: flex;
+    margin-bottom: 100px;
+
+
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+
+
+.coding img {
+    width: 100%;
+}
